@@ -1,0 +1,22 @@
+.row-posts{
+    margin-left: 60px;
+     
+}
+.row-title,h2{
+    color: white;
+}
+.posters{
+    display: flex;
+    overflow-x: scroll;
+    overflow-y: hidden;
+
+}
+.posters::-webkit-scrollbar{
+    display: none;
+}
+.poster{
+    max-height: 130px;
+    max-width: 230px;
+    margin-left: 5px;
+
+}

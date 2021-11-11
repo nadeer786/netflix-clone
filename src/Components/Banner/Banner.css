@@ -1,0 +1,41 @@
+.banner{
+    background-image:url("https://occ-0-4994-2164.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABdG2vBvqRvO-I2Zztcvym2n6QtbmM7SrnmzAgGhT8TSYwkfn5-pnMHv17RW8lv65gwDb_0pvKfQrG80nxd-iFtixk6UN.webp?r=b21");
+    background-size: cover;
+    height: 700px;
+    color: white;
+}
+.content .title-logo{
+    margin-left: 60px;
+    margin-top: 150px;
+}
+.episode-title-container{
+    font-weight: 600;
+    font-size:1.4vw;
+    text-shadow: 2px 2px 4px rgb(0 0 0 / 45%);
+    max-width:500px;
+    margin-left: 60px;
+}
+.banner-button1,.banner-button2{
+    background-color: white;
+    outline: none;
+    border: none;
+    font-weight: 700;
+    border-radius: 5px;
+    color: black;
+    padding: 1rem 2rem 1rem 2.4rem;
+    margin-left: 5px;
+    cursor: pointer;
+}
+.banner-button2{
+    background-color: rgba(109, 109, 110, 0.7);
+    color: white;
+}
+.banner-buttons-container{
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.banner-fide-bottom{
+    height: 7.4rem;
+    background-image: linear-gradient(180deg,transparent,rgba(38,38,38,.60 ),#111);
+    margin-top: 25px;
+}
